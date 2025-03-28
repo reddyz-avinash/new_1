@@ -7,6 +7,7 @@ int main() {
     switch (choice) {
         case 1:
             printf("Btech cse\n");
+	    printf("not");
             break;
 	    case 2:
             printf("Btech aiml\n");
