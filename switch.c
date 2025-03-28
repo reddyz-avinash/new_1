@@ -12,5 +12,9 @@ int main() {
             printf("Btech aiml\n");
             break;
 	     case 3:
-            printf("You selected Three.\n");
+            printf("Btech mec\n");
             break;
+	     case 4:
+            printf("btech civil\n");
+            break;
+
