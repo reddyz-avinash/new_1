@@ -10,6 +10,7 @@ int main() {
             break;
 	    case 2:
             printf("Btech aiml\n");
+	    printf("not");
             break;
 	     case 3:
             printf("Btech mec\n");
