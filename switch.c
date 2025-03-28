@@ -8,3 +8,6 @@ int main() {
         case 1:
             printf("Btech cse\n");
             break;
+	    case 2:
+            printf("You selected Two.\n");
+            break;
