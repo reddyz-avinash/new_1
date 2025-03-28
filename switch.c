@@ -9,5 +9,8 @@ int main() {
             printf("Btech cse\n");
             break;
 	    case 2:
-            printf("You selected Two.\n");
+            printf("Btech aiml\n");
+            break;
+	     case 3:
+            printf("You selected Three.\n");
             break;
