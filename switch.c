@@ -17,4 +17,9 @@ int main() {
 	     case 4:
             printf("btech civil\n");
             break;
+default:
+            printf("Invalid choice! Please enter 1, 2, or 3.\n");
+    }
 
+    return 0;
+}
