@@ -17,6 +17,9 @@ int main() {
             printf("Btech mec\n");
             break;
 	     case 4:
+	    printf("pharmc\n");
+	    break;
+	     case 5:
             printf("btech civil\n");
             break;
 default:
