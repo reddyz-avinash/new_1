@@ -1,4 +1,0 @@
-btech aiml
-btech cse
-btech biotech
-pharmaiml

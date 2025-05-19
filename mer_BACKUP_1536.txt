@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-btech aiml
-btech cse
-btech biotech
-pharmaiml
-=======
-btech cse
-pharcmcy
->>>>>>> ts2
